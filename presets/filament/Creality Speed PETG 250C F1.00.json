@@ -54,12 +54,35 @@
 		"Creality CR-6 SE 0.8 nozzle",
 		"Creality CR-M4 0.4 nozzle"
 	],
+	"filament_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"filament_flow_ratio": [
+		"1"
+	],
+	"filament_max_volumetric_speed": [
+		"19"
+	],
 	"filament_settings_id": [
-		"Creality Generic PETG (255)"
+		"Creality Speed PETG 250C F1.00"
 	],
 	"from": "User",
+	"hot_plate_temp": [
+		"65"
+	],
 	"inherits": "Creality Generic PETG",
-	"is_custom_defined": "0",
-	"name": "Creality Generic PETG (255)",
+	"name": "Creality Speed PETG 250C F1.00",
+	"nozzle_temperature": [
+		"250"
+	],
+	"nozzle_temperature_initial_layer": [
+		"250"
+	],
+	"nozzle_temperature_range_high": [
+		"255"
+	],
+	"nozzle_temperature_range_low": [
+		"240"
+	],
 	"version": "2.3.1.10"
 }

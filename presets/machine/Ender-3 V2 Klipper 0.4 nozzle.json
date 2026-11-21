@@ -11,8 +11,8 @@
 		"1000",
 		"500"
 	],
-	"name": "Ender-3-Klipper 0.4 nozzle",
+	"name": "Ender-3 V2 Klipper 0.4 nozzle",
 	"nozzle_type": "brass",
-	"printer_settings_id": "Ender-3-Klipper 0.4 nozzle",
+	"printer_settings_id": "Ender-3 V2 Klipper 0.4 nozzle",
 	"version": "2.3.1.10"
 }

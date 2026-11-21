@@ -5,6 +5,7 @@
 	"from": "User",
 	"gcode_flavor": "klipper",
 	"inherits": "Creality Ender-3 V2 0.4 nozzle",
+	"is_custom_defined": "0",
 	"machine_max_acceleration_retracting": [
 		"1500",
 		"1000"
@@ -13,15 +14,11 @@
 		"1000",
 		"500"
 	],
-	"name": "Ender-3-Klipper 0.4 HGX",
-	"printer_agent": "moonraker",
-	"printer_extruder_id": [
-		"1"
+	"name": "Ender-3 V2 Klipper 0.6 HGX",
+	"nozzle_diameter": [
+		"0.6"
 	],
-	"printer_extruder_variant": [
-		"Direct Drive Standard"
-	],
-	"printer_settings_id": "Ender-3-Klipper 0.4 HGX",
+	"printer_settings_id": "Ender-3 V2 Klipper 0.6 HGX",
 	"retraction_length": [
 		"3"
 	],

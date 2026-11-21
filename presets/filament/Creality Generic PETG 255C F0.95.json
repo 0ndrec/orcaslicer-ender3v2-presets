@@ -54,21 +54,12 @@
 		"Creality CR-6 SE 0.8 nozzle",
 		"Creality CR-M4 0.4 nozzle"
 	],
-	"filament_flow_ratio": [
-		"1.02"
-	],
 	"filament_settings_id": [
-		"Creality Generic PETG (240)"
+		"Creality Generic PETG 255C F0.95"
 	],
 	"from": "User",
 	"inherits": "Creality Generic PETG",
 	"is_custom_defined": "0",
-	"name": "Creality Generic PETG (240)",
-	"nozzle_temperature": [
-		"240"
-	],
-	"nozzle_temperature_initial_layer": [
-		"260"
-	],
+	"name": "Creality Generic PETG 255C F0.95",
 	"version": "2.3.1.10"
 }
